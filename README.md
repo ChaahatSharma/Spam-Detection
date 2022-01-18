@@ -1,3 +1,3 @@
 # Spam-Detection
 
-## Check Main branch for code
+## Check 'Master' branch for code
